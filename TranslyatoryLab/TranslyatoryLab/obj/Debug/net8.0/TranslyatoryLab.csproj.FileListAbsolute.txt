@@ -1,0 +1,14 @@
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\bin\Debug\net8.0\TranslyatoryLab.exe
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\bin\Debug\net8.0\TranslyatoryLab.deps.json
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\bin\Debug\net8.0\TranslyatoryLab.runtimeconfig.json
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\bin\Debug\net8.0\TranslyatoryLab.dll
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\bin\Debug\net8.0\TranslyatoryLab.pdb
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\TranslyatoryLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\TranslyatoryLab.AssemblyInfoInputs.cache
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\TranslyatoryLab.AssemblyInfo.cs
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\TranslyatoryLab.csproj.CoreCompileInputs.cache
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\TranslyatoryLab.dll
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\refint\TranslyatoryLab.dll
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\TranslyatoryLab.pdb
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\TranslyatoryLab.genruntimeconfig.cache
+C:\Users\Zaboev\source\repos\TranslyatoryLab\TranslyatoryLab\obj\Debug\net8.0\ref\TranslyatoryLab.dll

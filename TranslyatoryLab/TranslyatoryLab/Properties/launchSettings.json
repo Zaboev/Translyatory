@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TranslyatoryLab": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}
