@@ -98,7 +98,7 @@ class CommentRemover
         return output.ToString();
     }
 
-    static bool StartsWith(string input, int i, string marker)     // Проверяет, начинается ли подстрока input с заданного маркера на позиции i
+    static bool StartsWith(string input, int i, string marker)
     {
         if (string.IsNullOrEmpty(marker))
             return false;
